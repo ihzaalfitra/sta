@@ -1,0 +1,13 @@
+.active{
+  color: #c53030;
+}
+.product:hover{
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+.product{
+  transition: 0.3s;
+}
+i{
+  color: #c53030;  
+}
