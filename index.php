@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="custom.css">
     <script src="https://kit.fontawesome.com/3c684c54ef.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="logo.png" />
+    <title>PT. Sukses Terang Anugerah</title>
 </head>
 <body class="h-screen overflow-x-hidden" style="background: #edf2f7;">
 
