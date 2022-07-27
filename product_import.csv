@@ -1,0 +1,18 @@
+id,category_id,name,filename,testing_items,backing,adhesive,tape_thickness,adhesion_to_steel,tensile_strength,temperature,lab_test_method,specification,remarks,items
+1,1,Bopp Packaging Tape,5e7eeff3db1e1.png,Value,BOPP Film,Water Based Acrylic Adhesive,38-75micron(1.4-3mils/0.035-0.075mm),4.0N--9.0N/25mm,60N--140N/25mm,0&#39;C - 40&#39;C,GB-T,,,
+2,1,Low Noise Bopp Packaging Tape,5e7ef0025f7be.png,Value,BOPP Film,Water Based Acrylic Adhesive,40-60micron(1.6-2.4mils/0.04-0.060mm),4.0N--9.0N/25mm,60N--140N/25mm,0&#39;C - 40&#39;C,GB-T,,,
+3,1,Bopp Stationary Tape,5e7ef009ee898.png,Value,BOPP Film,Water Based Acrylic Adhesive,35-75micron(1.4-3mils/0.035-0.075mm),4.0N--9.0N/25mm,60N--140N/25mm,0&#39;C - 40&#39;C,GB-T,,,
+4,1,Double Sided Tape,5e7ef0107f577.png,Value,BOPP Film,Water Based Acrylic / Solvent Based Acrylic / Hotmelt,70 - 288micron (2.8-11.52mils 0.07-0.288mm),4. 8-19N/25mm (29.24-69.45oz/in),,&#39;80&#39;C-120&#39;C+B25:B37,,,,
+5,1,Masking Tape,5e7ef015c4a48.png,Value,BOPP Film,Acrylic Water Based / Rubber Type Adhesive,140-170micron (5.6-6.8mils/0.14-0.017mm),4.2-8N/25mm(15.35-29.2oz/in),4.2-87.5N/25mm(9.6-20lbs/in),&#39;80&#39;C-120&#39;C+B25:B37,GB-T,,,
+6,1,Color Bopp Packaging Tape,5e7ef01aefaf8.png,Value,BOPP Film,Water Based Acrylic Adhesive,40-75micron (1.6-3mils/0.04-0.75mm),5-7N--9.0N/25mm,60N--140N/25mm,0&#39;C - 40&#39;C,GB-T,,,
+7,1,Cloth Tape,5e7ef01f8d664.png,Value,BOPP Film,Sythetic Rubber Adhesive,230-300micron (9.2-12mils/0.23-0.3mm),10-16N/25mm (36.55-58.48oz/in),,,,,,
+8,2,Cast Coated Paper,5e8187c28725a.png,,,,,,,,,"Surface shiny and more refined. It is usually used to label sticker promotions, brand, etc.",,"Cromo, Cromo White Glassine & Cromo Blue Glassine"
+9,2,Semi Coated,5e8187d0b2b27.png,,,,,,,,,"Paper materials that already coated, but thin and softer than material HVS, usually used as a barcode label.",,"Semicoated , Semicoated White Glassine & Semicoated Blue Glassine."
+10,2,Wood Free Paper,5e8187d8451e7.png,,,,,,,,,"Its surface is rugged, economical category material. usually used for general use-address labels, label info, etc.",,"HVS, HVS White Glassine & HVS Blue Glassine"
+11,2,Synthetic Paper,5e8187df0b558.png,,,,,,,,,"A combination of plastic and paper, can be printed and its colour is white. Usually used as barcode labels in various industry.",,Yupo
+12,2,Poly Vynil Chloride,5e8187e55fba5.png,,,,,,,,,"Excellent Durability, Weatherproof, waterproof, dust-resistant and heat-resistant. fit in out door.",,"Silver Bright, Gold Bright, Silver Matt, Gold Matt, Vynil Tranparant"
+13,2,Security Label,5e8187e9f1f01.png,,,,,,,,,"The surface of the material is smooth and fast RIP, usually used as a seal of hp, electronics, etc.",,Security
+14,3,Wooden Palette,5e818e0f22f89.png,,,,,,,,,"Size : 1220x1020x150 mm or customize.  Moisture Content : 20 degree, oven dry. Material: hard and mixed woods.",ISPM provided,
+15,3,Stretch Film,5e819f81b8e79.png,,5e819f81b8e79,,,,,,,"General width is 450mm and 500mm, thickness is 15um-40um. Available in different thickness, lengths and widths to meet customer’s need",Color Transparant,
+16,1,Kraft Paper Tape,5e819f8b44955.png,,5e819f8b44955,,,,,,,"Width of Products : 36mm, 48mm, 60mm ; Length is 30m – 200m. This tape is available in variety of widths, length to meet your specific need",These tapes are laminated with fiberglass to meet heavy packaging purpose. Color is tan,
+17,3,Plastic,5e819f8ed37fb.png,,5e819f8ed37fb,,,,,,,"Plastic LDPE ORI / Plastic LDPE SUPER I / Plastic LDPE SUPER II / Plastic LDPE A1  / Plastic HD ORI /  Plastic HDPP. Available in different thickness, lengths and widths to meet customer’s need",Color CLEAR,
